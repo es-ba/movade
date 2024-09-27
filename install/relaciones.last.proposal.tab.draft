@@ -1,0 +1,12 @@
+operativo|tabla_datos     |tiene                   |que_es  |mimsa_pk|tabla_relacionada|a_veces_siempre|max        
+movade241|comunas         |grupo_personas          |        |        |                 |               |           
+movade241|supervision     |supervision_calculada   |        | true   |                 |               |1          
+movade241|recorridos      |grupo_personas          |        |        |                 |               |           
+movade241|supervision     |grupo_personas          |        |        |                 |               |           
+movade241|grupo_personas  |grupo_personas_calculada|        | true   |                 |               |1          
+movade241|profesion       |personas                |        |        |                 |               |           
+movade241|grupo_personas  |personas                |        |        |                 |               |           
+movade241|personas        |personas_calculada      |        | true   |                 |               |1          
+movade241|grupo_personas  |referente               |personas|        |                 |               |1          
+movade241|grupo_personas  |jefe                    |personas|        |                 |               |1          
+movade241|persona         |padreo2madre            |personas|        |                 |               |1          

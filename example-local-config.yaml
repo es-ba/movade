@@ -1,0 +1,23 @@
+server:
+  port: 3060
+db:
+  password: cambiar!!
+log:
+  req: false
+  db:
+    on-demand: true
+install:
+  dump:
+    #drop-his: true
+  table-data-dir: 
+    - ../dmencu-data/movade241
+login:
+  plus:
+    secret: 39djjfnvvjas..33.3.33
+    allowHttpLogin: true
+devel:
+  forceShowAsEditable: false
+  useFileDevelopment: true
+client-setup:
+  skin: ""
+  lang: es

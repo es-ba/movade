@@ -1,0 +1,11 @@
+#set BACKEND_PLUS_LOCAL_CONFIG=nombre_de_archivo
+db:
+  password: cambiar!!
+server:
+  port: 3061 #otroPuerto
+  policy: web
+devel:
+  delay: 0
+log:
+  db:
+    on-demand: true
